@@ -1,0 +1,11 @@
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\foo.specs.dll.config
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\foo.specs.dll
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\foo.specs.pdb
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\nunit.framework.dll
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\bin\Debug\nunit.framework.xml
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\obj\Debug\foo.specs.csprojResolveAssemblyReference.cache
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\obj\Debug\foo.specs.dll
+C:\Users\ihasan\Source\Repos\DemoSpecflow\foo.specs\obj\Debug\foo.specs.pdb
