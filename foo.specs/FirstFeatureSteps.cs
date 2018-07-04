@@ -12,11 +12,17 @@ namespace foo.specs
             //if()
             ScenarioContext.Current.Add("number1", p0);
         }
-        
+
+        [Given(@"I again entered (.*) into the calculator")]
+        public void GivenIAgainEnteredIntoTheCalculator(int p0)
+        {
+            ScenarioContext.Current.Add("number2", p0);
+        }
+
         [When]
         public void When_I_press_add()
         {
-            var number = ScenarioContext.Current["number1"];
+            var number = Convert.ToInt64(ScenarioContext.Current["number1"]) + Convert.ToInt64(ScenarioContext.Current["number2"]);
         }
 
         [When]
